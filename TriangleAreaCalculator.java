@@ -7,7 +7,7 @@ public class TriangleAreaCalculator {
 
 		 int n;
 		n=4+9;
-		print(n);
+		print(n)
 
 	}
 
